@@ -1,0 +1,17 @@
+- name: Taipei Sans TC
+  displayname: 台北黑體
+  category: sans serif
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/TaipeiSansTCBeta-Bold
+        weight: 700
+        xfl: true
+      - filename: dist/TaipeiSansTCBeta-Regular
+        weight: 400
+        xfl: true
+      - filename: dist/TaipeiSansTCBeta-Light
+        weight: 300
+        xfl: true
